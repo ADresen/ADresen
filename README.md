@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Andrew Dresen I am a student at Iowa State University studying Aerospace engineering. Any machine is of interest to me and I love working through how
+to build machines and how to improve them. I am also a member of Cyclcone Rocketry as a part of the Payload subteam, so I have been working on this years project to be launched at the 2023 SpacePort America cup. The project entails many different parts of enineering: mechanical, electrical, manufacturing, and software are all parts of this project, so I have been getting more familiar with the parts of engineering I don't know much about to work on completing the project. I am interested in learning anything that goes into building a machine, so mechanical design, electrical design, and writing software are all thing I would like to be more comfortable in doing. My favorite hobby at the moment is learning how to program and wire microcontrollers to read sensors, as it is relevant to the payload project we are doing.
 
 <!--
 **ADresen/ADresen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
